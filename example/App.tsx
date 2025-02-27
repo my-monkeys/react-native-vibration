@@ -7,7 +7,7 @@ import {
   Dimensions,
   TouchableOpacity,
 } from "react-native";
-import * as ReactNativeRichVibration from "react-native-rich-vibration";
+import * as ReactNativeRichVibration from "react-native-vibration";
 import { Slider } from "@miblanchard/react-native-slider";
 
 const windowWidth = Dimensions.get("window").width;

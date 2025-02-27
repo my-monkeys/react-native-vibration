@@ -3,8 +3,8 @@
   "compilerOptions": {
     "strict": true,
     "paths": {
-      "react-native-rich-vibration": ["../src/index"],
-      "react-native-rich-vibration/*": ["../src/*"]
+      "react-native-vibration": ["../src/index"],
+      "react-native-vibration/*": ["../src/*"]
     }
   }
 }

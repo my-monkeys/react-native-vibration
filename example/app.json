@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-rich-vibration-example",
-    "slug": "react-native-rich-vibration-example",
+    "name": "react-native-vibration-example",
+    "slug": "react-native-vibration-example",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

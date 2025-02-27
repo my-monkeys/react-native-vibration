@@ -6,7 +6,7 @@ module.exports = async (env, argv) => {
     {
       ...env,
       babel: {
-        dangerouslyAddModulePathsToTranspile: ['react-native-rich-vibration'],
+        dangerouslyAddModulePathsToTranspile: ['react-native-vibration'],
       },
     },
     argv
