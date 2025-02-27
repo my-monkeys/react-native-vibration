@@ -9,19 +9,19 @@ This React Native library provides an alternative to the standard vibrations API
 1. Install the module using npm or yarn:
 
    ```bash
-   npx expo install react-native-rich-vibration
+   npx expo install react-native-vibration
    ```
 
 ## Demo
 
 Watch the demo video below to see the React Native Rich Vibration module in action:
 
-https://github.com/openingbracket/react-native-rich-vibration/assets/9054649/35f55ed6-f3b0-4d23-9d4d-74ae94693d42
+https://github.com/my-monkeys/react-native-vibration/assets/9054649/35f55ed6-f3b0-4d23-9d4d-74ae94693d42
 
 ## Usage
 
 ```bash
-import * as ReactNativeRichVibration from "react-native-rich-vibration";
+import * as ReactNativeRichVibration from "react-native-vibration";
 
 // Check for Haptics Support
 ReactNativeRichVibration.hasHaptics()

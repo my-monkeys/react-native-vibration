@@ -1,6 +1,6 @@
 {
-  "name": "react-native-rich-vibration",
-  "version": "0.3.1",
+  "name": "react-native-vibration",
+  "version": "1.0.0",
   "description": "React Native Vibration Library with Rich Features",
   "main": "build/index.js",
   "types": "build/index.d.ts",
@@ -18,16 +18,21 @@
   "keywords": [
     "react-native",
     "expo",
+    "react-native-vibration",
     "react-native-rich-vibration",
+    "ReactNativeVibration",
     "ReactNativeRichVibration"
   ],
-  "repository": "https://github.com/openingbracket/react-native-rich-vibration",
+  "repository": "https://github.com/my-monkeys/react-native-vibration",
   "bugs": {
-    "url": "https://github.com/openingbracket/react-native-rich-vibration/issues"
+    "url": "https://github.com/my-monkeys/react-native-vibration/issues"
   },
-  "author": "shafayeatsumit <shafayeatkabir@gmail.com> (https://github.com/shafayeatsumit)",
+  "author": "My Monkey <contact@my-monkey.fr> (https://github.com/my-monkeys)",
+  "contributors": [
+    "shafayeatsumit <shafayeatkabir@gmail.com> (https://github.com/shafayeatsumit)"
+  ],
   "license": "MIT",
-  "homepage": "https://github.com/openingbracket/react-native-rich-vibration#readme",
+  "homepage": "https://github.com/my-monkeys/react-native-vibration#readme",
   "dependencies": {},
   "devDependencies": {
     "@types/react": "^18.0.25",
